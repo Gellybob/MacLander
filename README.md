@@ -3,6 +3,8 @@ MacLander lets you instantly view your Mac's status with Time, Ram, Calendar, CP
 Website: gellybob.github.io
 ## Installation
 
-To download and open the installer instantly via your Mac Terminal, copy and paste this command:
+Download the latest version directly from the link below:
 
-Terminal Script Broken, We are working on fixing it, In the meantime use this link: https://github.com/Gellybob/MacLander/releases/download/v1.1/MacLander.V1.1.Installer.dmg
+👉 **[Download MacLander v1.1 for macOS](https://github.com/Gellybob/MacLander/releases/download/v1.1/MacLander.V1.1.Installer.dmg)**
+
+Once downloaded, open the `.dmg` file and drag MacLander to your Applications folder.
