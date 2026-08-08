@@ -5,6 +5,4 @@ Website: gellybob.github.io
 
 To download and open the installer instantly via your Mac Terminal, copy and paste this command:
 
-```bash
-curl -L -o ~/Downloads/MacLander.Installer.dmg "https://github.com" && open ~/Downloads/MacLander.Installer.dmg
-```
+Terminal Script Broken, We are working on fixing it, In the meantime use this link: https://github.com/Gellybob/MacLander/releases/download/v1.1/MacLander.V1.1.Installer.dmg
